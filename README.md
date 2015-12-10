@@ -1,4 +1,4 @@
-# BodyTrace API Example using Python and Requests
+# BodyTrace API using Python and Requests
 
 This example shows how to retrieve weight, battery, and signal strength from the BodyTrace Scale API.
 
